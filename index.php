@@ -8,6 +8,8 @@
     <title>Booking App</title>
 </head>
 <body>
-    
+    <div class="app">
+        
+    </div>
 </body>
 </html>
